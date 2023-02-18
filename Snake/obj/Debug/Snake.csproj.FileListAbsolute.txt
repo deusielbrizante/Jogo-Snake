@@ -1,0 +1,10 @@
+D:\Área de Trabalho\Jogo da Cobrinha\Snake\bin\Debug\Snake.exe.config
+D:\Área de Trabalho\Jogo da Cobrinha\Snake\bin\Debug\Snake.exe
+D:\Área de Trabalho\Jogo da Cobrinha\Snake\bin\Debug\Snake.pdb
+D:\Área de Trabalho\Jogo da Cobrinha\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\Área de Trabalho\Jogo da Cobrinha\Snake\obj\Debug\Snake.Form1.resources
+D:\Área de Trabalho\Jogo da Cobrinha\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\Área de Trabalho\Jogo da Cobrinha\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\Área de Trabalho\Jogo da Cobrinha\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Jogo da Cobrinha\Snake\obj\Debug\Snake.exe
+D:\Área de Trabalho\Jogo da Cobrinha\Snake\obj\Debug\Snake.pdb
